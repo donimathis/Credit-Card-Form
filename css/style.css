@@ -23,12 +23,10 @@ body {
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
   padding: 160px 45px 30px;
   border-radius: 15px;
-  position: relative;
-  font-size: 13;
   position: absolute;
+  font-size: 13;
   left: 300px;
   top: 10px;
-  bottom: 200px;
   z-index: -1;
 }
 
@@ -92,8 +90,7 @@ Form
 --------------------*/
 .form fieldset {
   border: none;
-  padding: 0;
-  padding: 10px 0;
+  padding: 10px;
   position: relative;
   clear: both;
 }
